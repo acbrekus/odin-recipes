@@ -1,0 +1,1 @@
+The project is to set up a simple recipe website using just HTML to show I understand the basics of HTML. The goal is to have a good commit history, an organized directory, and to make mistakes and learn how to fix them.
