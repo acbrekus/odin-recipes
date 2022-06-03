@@ -1,0 +1,20 @@
+.eggs,
+.bowl,
+.tacos {
+    font-size: 40px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.eggs {
+    color: green;
+}
+
+.bowl {
+    color: #ffcc99;   
+}
+
+.tacos {
+    color: #ff8000;
+}
