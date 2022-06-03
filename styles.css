@@ -18,3 +18,14 @@
 .tacos {
     color: #ff8000;
 }
+
+.fadv {
+    font-weight: 600;
+    color: yellow;
+    font-size: 80px;
+}
+
+.tpic {
+    height: auto;
+    width: 600px;
+}
